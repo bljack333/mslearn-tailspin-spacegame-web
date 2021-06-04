@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/spragum/Space%20Game%20-%20web/_apis/build/status/bljack333.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/spragum/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
